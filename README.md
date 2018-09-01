@@ -4,6 +4,7 @@ A minute part of the prototype for smart car parking through raspberry pi this r
 
 ### Prerequisites
 Hardware:
+
 Raspberry Pi 3/2 not zero(no official TensorFlow installation is provided)
 Raspberry Pi Camera Module
 One Micro SD-Card
