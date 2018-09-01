@@ -16,13 +16,15 @@ Hardware:
 
 
 Softwares:
-RASPBIAN STRETCH or RASPBIAN STRETCH LITE OS
-Etcher
-SD-Card Formatter
+1. RASPBIAN STRETCH or RASPBIAN STRETCH LITE OS
+2. Etcher
+3. SD-Card Formatter
+
 
 Libraries on Pi:
-Python 2.7 (Defaultly installed on Pi OS )
-PIP
-RPi.GPIO
-picamera
-TensorFlow Module
+1. Python 2.7 (Defaultly installed on Pi OS )
+2. PIP
+3. RPi.GPIO
+4. picamera
+5. TensorFlow Module
+
