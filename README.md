@@ -38,6 +38,16 @@ A minute part of the prototype for smart car parking through raspberry pi this r
   ii. Link to downalod etcher tool: [Etcher](https://etcher.io/)
  
   iii. Link to setup Pi Headless: [Headless setup](https://medium.com/a-path-to-pi/adding-ssh-and-wifi-to-a-headless-raspberry-pi-3-fresh-install-54be6634716e)
- 
- 
+  
+  - Once you entered into pi terminal by following above link of Headless setup and then try to run following commands to install all the libraries required for this project.
+  
+    ```
+    sudo apt-get install python-pip python-dev build-essential
+    
+    ```
+   
+    ```
+    sudo pip install --upgrade pip
+    
+    ```
     
