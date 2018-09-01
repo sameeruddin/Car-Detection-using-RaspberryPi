@@ -62,6 +62,6 @@ A minute part of the prototype for smart car parking through raspberry pi this r
     
 - After Installing all the libraries connect picamera to raspberry pi and for remaining components follow the connections from below circuit diagram.
 
-![Circuit Diagram](../circuit.png)
+![Circuit Diagram](circuit.png)
 
 
