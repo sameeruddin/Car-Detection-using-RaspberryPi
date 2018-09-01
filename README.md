@@ -13,7 +13,7 @@ A minute part of the prototype for smart car parking through raspberry pi this r
 5. One push button
 6. One RED LED
 7. One GREEN LED
-8.Three 330Ω resistor's and some jumper cables
+8. Two 330Ω resistor's and some jumper cables
 
 
 ###### Softwares:
