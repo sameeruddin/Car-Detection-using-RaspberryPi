@@ -83,7 +83,7 @@ A minute part of the prototype for smart car parking through raspberry pi this r
 - TensorFlow Inception model has been retrained by using two data sets
   1. [Cars Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
   2. [Vehicle Image Database](https://www.gti.ssr.upm.es/data/Vehicle_database.html) 
+
+## Note:
   
-  ## Note:
-  
-- To convert your SD-Card to normal this SD Memory Card Formatter software will be helpful download from this [link](https://www.sdcard.org/downloads/formatter_4/).
+- To convert your OS booted SD-Card to normal SD-Card. the SD Card Formatter software will be helpful download from this [link](https://www.sdcard.org/downloads/formatter_4/).
