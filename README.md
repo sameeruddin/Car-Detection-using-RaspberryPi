@@ -78,10 +78,12 @@ A minute part of the prototype for smart car parking through raspberry pi this r
 
 > When a vehicle is trying to enter into a car park this retrained tensorflow model will be helpful to detect it and future work of this project will be based on ANPR (Automatic Number Plate Recognition) of captured car images.
 
-- To convert your SD-Card to normal this SD Memory Card Formatter software will be helpful download from this [link](https://www.sdcard.org/downloads/formatter_4/).
-
 ### Acknowledgments
 
 - TensorFlow Inception model has been retrained by using two data sets
   1. [Cars Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
   2. [Vehicle Image Database](https://www.gti.ssr.upm.es/data/Vehicle_database.html) 
+  
+  ## Note:
+  
+- To convert your SD-Card to normal this SD Memory Card Formatter software will be helpful download from this [link](https://www.sdcard.org/downloads/formatter_4/).
