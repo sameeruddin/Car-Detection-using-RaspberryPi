@@ -44,18 +44,15 @@ A minute part of the prototype for smart car parking through raspberry pi this r
     ```
     sudo apt-get install python-pip python-dev build-essential
     
-    ```
-   
+    ```   
     ```
     sudo pip install --upgrade pip
     
     ```
-    
     ```
     pip install RPi.GPIO
     
-    ``` 
-        
+    ```  
     ```
     sudo apt-get install python-picamera python3-picamera
     
