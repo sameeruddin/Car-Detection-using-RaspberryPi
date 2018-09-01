@@ -64,4 +64,9 @@ A minute part of the prototype for smart car parking through raspberry pi this r
 
 ![Circuit Diagram](circuit.png)
 
+- Once all the components are integrate then make sure you have two images print out. One image with car or you can also show a toy car and another image with road or parking road. Now clone this repository to your pi then run following command for execution.
+
+  ```
+  python main.py
+  ```
 
