@@ -60,4 +60,8 @@ A minute part of the prototype for smart car parking through raspberry pi this r
     
     Install TensorFlow from this [Link](https://www.tensorflow.org/install/install_raspbian)
     
-- After Installing all the libraries connect picamera to raspberry pi and for remaining components follow these instructions.
+- After Installing all the libraries connect picamera to raspberry pi and for remaining components follow the connections from below circuit diagram.
+
+![Circuit Diagram](../circuit.png)
+
+
