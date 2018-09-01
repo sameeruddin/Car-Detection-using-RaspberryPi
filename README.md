@@ -5,14 +5,15 @@ A minute part of the prototype for smart car parking through raspberry pi this r
 ### Prerequisites
 Hardware:
 
-Raspberry Pi 3/2 not zero(no official TensorFlow installation is provided)
-Raspberry Pi Camera Module
-One Micro SD-Card
-One Breadboard
-One push button
-One RED LED
-One GREEN LED
-Three 330Ω resistor's and some jumper cables
+1. Raspberry Pi 3/2 not zero(no official TensorFlow installation is provided)
+2. Raspberry Pi Camera Module
+3. One Micro SD-Card
+4. One Breadboard
+5. One push button
+6. One RED LED
+7. One GREEN LED
+8.Three 330Ω resistor's and some jumper cables
+
 
 Softwares:
 RASPBIAN STRETCH or RASPBIAN STRETCH LITE OS
