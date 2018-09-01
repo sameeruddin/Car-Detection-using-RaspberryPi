@@ -4,7 +4,7 @@ A minute part of the prototype for smart car parking through raspberry pi this r
 
 ### Prerequisites
 
-######Hardware:
+###### Hardware:
 
 1. Raspberry Pi 3/2 not zero(no official TensorFlow installation is provided)
 2. Raspberry Pi Camera Module
@@ -16,16 +16,28 @@ A minute part of the prototype for smart car parking through raspberry pi this r
 8.Three 330Ω resistor's and some jumper cables
 
 
-######Softwares:
+###### Softwares:
 1. RASPBIAN STRETCH or RASPBIAN STRETCH LITE OS
 2. Etcher
 3. SD-Card Formatter
 
 
-######Libraries on Pi:
+###### Libraries on Pi:
 1. Python 2.7 (Defaultly installed on Pi OS )
 2. PIP
 3. RPi.GPIO
 4. picamera
 5. TensorFlow Module
 
+### Installing
+
+- First install raspbian stretch or raspbian stretch lite operating system image and burn to SD-Card using etcher tool and follow the below link to setup raspberry pi in a headless mode to perform SSH operations on it.
+
+ ** Link to download raspbian OS download: [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspbian/)
+ 
+ ** Link to downalod etcher tool: [Etcher](https://etcher.io/)
+ 
+ ** Link to setup Pi Headless: [Headless setup](https://medium.com/a-path-to-pi/adding-ssh-and-wifi-to-a-headless-raspberry-pi-3-fresh-install-54be6634716e)
+ 
+ 
+    
