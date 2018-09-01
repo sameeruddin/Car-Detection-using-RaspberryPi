@@ -1,6 +1,7 @@
 # Car-Detection
 A minute part of the prototype for smart car parking through raspberry pi this repository verifies the captured image consist of a car or not. If the image has a car it glows a green LED otherwise it turns on the red LED.
 
+
 ### Prerequisites
 Hardware:
 Raspberry Pi 3/2 not zero(no official TensorFlow installation is provided)
